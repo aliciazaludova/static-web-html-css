@@ -17,20 +17,20 @@ HTML5, CSS
 3. Each product should contain a header element that, itself, contains an h2 element where the product's title will be written.
 4. Each product should have three sections.
 5. The first section should contain three child block elements.
-  - The first element contains the product image.
-  - The second element contains the product description.
-  - The third element contains the product availability (e.g. "Available" or "Not Available")
+   - The first element contains the product image.
+   - The second element contains the product description.
+   - The third element contains the product availability (e.g. "Available" or "Not Available")
 6. The second section contains product specifications.
-  - This section should have a header containing the word "Specifications"
-  - This section should contain two block elements
-  - The first block element specifies the size.
-  - The second block element specifies the weight.
-  - This section should contain a footer.
-  - The footer contains text stating when the product specifications become invalid.
+   - This section should have a header containing the word "Specifications"
+   - This section should contain two block elements
+   - The first block element specifies the size.
+   - The second block element specifies the weight.
+   - This section should contain a footer.
+   - The footer contains text stating when the product specifications become invalid.
 7. The third section contains the product pricing.
-  - This section should contain a header.
-  - This section should contain three block elements.
-  - Each block element contains information about the price for different quantities.
+   - This section should contain a header.
+   - This section should contain three block elements.
+   - Each block element contains information about the price for different quantities.
 
 ### Additional style requirements
 
