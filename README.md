@@ -1,16 +1,16 @@
-#The Static Web HTML + CSS
+# The Static Web HTML + CSS
 
-##Specs
+## Specs
 
 Build a grid of cards for a company's products
 
-##Technologies Used
+## Technologies Used
 
 HTML5, CSS
 
-##Description
+## Description
 
-###Requirements
+### Requirements
 
 1. Each card should be an article.
 2. Each card should take up 30% of the width of the browser window.
@@ -32,7 +32,7 @@ HTML5, CSS
   - This section should contain three block elements.
   - Each block element contains information about the price for different quantities.
 
-###Additional style requirements
+### Additional style requirements
 
 1. The entire card has a solid 1px border that is lightblue.
 2. The card title has a dotted 1px border that is lightgray.
@@ -41,15 +41,15 @@ HTML5, CSS
 5. The text for the product specification details and pricing details is bold.
 6. The availability element extends the full width of the card, with a dark grey background and yellow text.
 
-###Features
+### Features
 
 Mock-up given in assignment
 
 ![sw_html_css_exercise](https://user-images.githubusercontent.com/33577725/41133376-204d38e2-6a8c-11e8-8b9e-e24dea6467f7.png)
 
-##Screenshot
+## Screenshot
 
-##How to Run
+## How to Run
 
 cd to directory in terminal git clone https://github.com/aliciazaludova/static-web-html-css
 1. Install http-server through npm
