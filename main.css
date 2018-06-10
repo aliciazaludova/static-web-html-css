@@ -5,13 +5,18 @@ body {
 
 h2 {
   font-weight: 900;
+  height: 50px;
+  padding-top: 20px;
+  margin: 0;
 }
 
 hr {
   border: 1px dotted lightgrey;
+  margin-top: 0;
 }
 
 .availability {
+  font-size: .85em;
   text-align: left;
   padding: 5px;
   background-color: grey;
@@ -30,3 +35,35 @@ hr {
   border: 1px solid lightblue;
 }
 
+.image-area {
+  height: 170px;
+}
+
+.description {
+  text-align: justify;
+  padding: 0 10px;
+}
+
+h4, .size, .weight, .price, h3 {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+h4, h3 {
+  margin-left: 8px;
+}
+
+.size, .weight, .price {
+  font-size: .7em;
+  padding-left: 16px;
+  color: black;    
+  text-shadow: 1px 0 black;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+footer {
+  font-size: .5em;
+  text-align: left;
+}
