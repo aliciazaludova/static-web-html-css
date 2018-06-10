@@ -7,6 +7,17 @@ h2 {
   font-weight: 900;
 }
 
+hr {
+  border: 1px dotted lightgrey;
+}
+
+.availability {
+  text-align: left;
+  padding: 5px;
+  background-color: grey;
+  color: yellow;
+}
+
 .card-wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
