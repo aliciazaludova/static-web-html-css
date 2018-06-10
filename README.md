@@ -47,7 +47,9 @@ Mock-up given in assignment
 
 ![sw_html_css_exercise](https://user-images.githubusercontent.com/33577725/41133376-204d38e2-6a8c-11e8-8b9e-e24dea6467f7.png)
 
-## Screenshot
+## Screenshot of Completed Project
+
+![screencapture-127-0-0-1-8080-2018-06-10-16_48_31](https://user-images.githubusercontent.com/33577725/41206727-3a5caa58-6cce-11e8-8936-333815ddacbd.png)
 
 ## How to Run
 
