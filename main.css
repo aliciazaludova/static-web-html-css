@@ -1,0 +1,10 @@
+.card-wrapper {
+  display: grid;
+  grid-template-columns: 4fr 4fr 4fr;
+} 
+  
+.card {
+  text-align: center;
+  border: 1px solid lightblue;
+}
+
